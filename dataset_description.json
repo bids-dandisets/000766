@@ -1,0 +1,21 @@
+{
+    "Name": "Novel genetically encoded tools for imaging neuropeptide release from presynaptic terminals in vivo",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "The dataset contains in vitro and in vivo data on the development of imaging neuropeptide release from the presynaptic terminal in the awake animal.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Han, Sung",
+        "Kim, Dong-Il",
+        "Park, Seahyung"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
